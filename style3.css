@@ -1,0 +1,33 @@
+html {
+  font-family: Poppins, sans-serif;
+  background: whitesmoke;
+  margin-top: 20px;
+}
+
+.container {
+  background-color: whitesmoke;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.list-group-item {
+  background-color: whitesmoke;
+}
+
+.list-group-item:hover {
+  color: red;
+}
+
+h3:hover {
+  color: red;
+}
+
+.pad-left {
+  padding-left: 50px;
+}
+
+.il {
+  font-size: .85rem;
+}
